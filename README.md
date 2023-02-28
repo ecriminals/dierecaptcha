@@ -1,5 +1,5 @@
-# reFUCKER
-reFUCKER: Bypass Google reCAPTCHA challenges programmatically.
+# `💀` reFUCKER
+**reFUCKER: Bypass Google reCAPTCHA challenges programmatically.**
 
 ## `❔` Usage
 ```py

@@ -1,7 +1,7 @@
 # reFUCKER
 reFUCKER: Bypass Google reCAPTCHA challenges programmatically.
 
-# `❔` Usage
+## `❔` Usage
 ```py
 from reFUCKER import reFUCKER
 

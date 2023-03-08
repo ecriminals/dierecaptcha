@@ -1,4 +1,5 @@
-from dierecaptcha import dierecaptcha
+from reFUCKER import reFUCKER
 
-_bypass = dierecaptcha().token("")
-print(_bypass)
+bypass = reFUCKER()
+
+print(bypass.get_token(url = ""))

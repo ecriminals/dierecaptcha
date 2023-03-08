@@ -14,7 +14,6 @@ print(bypass.get_token(url = ""))
 https://user-images.githubusercontent.com/105955582/221744792-adc919a8-44a8-4f47-8757-ebc1451ebfab.mp4
 
 
-## `🧑‍💻` Contact
-- **Website**: https://aithe.dev/
-- **Telegram**: t.me/aithedev
-- **Discord**: ai#4444
+## `🧑‍💻` Credits
+- [ecriminals](https://github.com/ecriminals)
+- [ai](https://github.com/aithedev)
